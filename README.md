@@ -5,19 +5,18 @@
 <div align="center" style="margin-bottom: 10px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/go.svg" alt="go" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/csharp.svg" alt="csharp" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/java.svg" alt="flutter" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/c.svg" alt="js" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/go.svg" alt="go" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="flutter" style="max-width: 100%;">
 </div>
 <h4 align = "center"> My interests</h4>
 <div align="center" style="margin-bottom: 10px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/security.svg" alt="security" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/cloud.svg" alt="cloud" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/web.svg" alt="web" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/azure.svg" alt="azure" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/security.svg" alt="security" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/cloud.svg" alt="cloud" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="web" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/azure.svg" alt="azure" style="max-width: 100%;">
 </div>
-<hr />
+<hr />	
 
 
 <h3 align="center">📫 Reach me out:</h3>
