@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Filip</h1>
 <h3 align="center">Cybersecurity and programming enthusiast from Poland</h3>
-<h4 align="center">I'm 17-year-old student. Always eager to learn more and sharpen my skills. Excited to contribute to open source projects and make a positive impact in the tech community. Let's connect and build something great together!</h4>
+<h4 align="center">I'm 18-year-old student. Always eager to learn more and sharpen my skills. Excited to contribute to open source projects and make a positive impact in the tech community. Let's connect and build something great together!</h4>
 <h4 align="center">Languages i use</h4>
 <div align="center" style="margin-bottom: 10px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;">
