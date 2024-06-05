@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/filip-slendakowski/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
   </a>
-  <a href="mailto:filip.slendakowski@gmail.com">
+  <a href="mailto:fslendakowski@gmail.com">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/email_me.svg" alt="twitter" style="max-width: 100%;">
   </a>
   
