@@ -23,7 +23,7 @@
 
 <h3 align="center">📫 Reach me out:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/filip-slendakowski/">
+  <a href="https://www.linkedin.com/in/filip-slendakowski/?locale=en_US">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
   </a>
   <a href="mailto:fslendakowski@gmail.com">
